@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: gelsight
+Version: 4.0
+Summary: A toolkit to interface with GelSight tactile sensors
+Home-page: UNKNOWN
+Author: gelsight
+Author-email: info@gelsight.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8

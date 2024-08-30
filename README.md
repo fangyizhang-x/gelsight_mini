@@ -5,6 +5,12 @@ This respository contains python code to connect to the GelSight Mini. The code 
 
 About to update instructions
 
+## Quick start for a pair of GelSight Mini sensors for tactile dataset collection
+Connect the left sensor then the right one.
+cd examples/ros
+    python3 showimages_ros_left.py
+    python3 showimages_ros_right.py
+
 ## Prerequisites
 
 ### Windows
